@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background:black;
+}
+h1{
+    text-align: center;
+    color: rgb(211, 163, 163);
+}
+h2, h3{
+    text-align: center;
+    color: rgb(45, 11, 114);
+    margin-top: 1rem;
+}
+ul{
+    margin-top: 4rem;
+    text-align: center;
+}
+li{
+    margin-top: 1rem;
+}    
+input{
+    background-color: #6ad3ac;
+    height: 4rem;
+    width: 26rem;
+    font-size: 1.5rem;
+    color: rgb(29, 5, 126);
+    cursor: pointer;
+    border-radius: 1.5rem;
+}
+
